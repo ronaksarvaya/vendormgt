@@ -1,0 +1,12 @@
+Dear Candidate,
+Thanks for your interest in our internship. Your application is shortlisted for next round.
+As a next step we need you to finish a short assignment (A Web App):
+
+1. Login with Google & Logout.
+Done 2. Create Vendor: Vendor Name*, Bank Account No*., Bank Name*, Address Line 1, Address Line 2*, City, Country, Zip Code.
+3. Display paginated list of vendors: Vendor Name, Bank Account No., Bank Name, Edit (link) / Delete (link)
+4. Edit: Load vendor details on edit vendor screen. Update on submit.
+5. Delete: Delete vendor after confirmation.
+6. Deploy on any free cloud service.
+*Mandatory fields.
+
