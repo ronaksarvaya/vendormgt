@@ -6,7 +6,6 @@ const cors = require('cors');
 const Vendor = require('./models/Vendor');
 
 const app = express();
-const cors = require("cors");
 app.use(cors({
   origin: process.env.CLIENT_URL,
   credentials: true
